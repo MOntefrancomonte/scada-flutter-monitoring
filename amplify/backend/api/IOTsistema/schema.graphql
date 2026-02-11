@@ -1,0 +1,8 @@
+type MiPrimerModeloDeDatos @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  timestamp: AWSTimestamp
+  Agua: Int
+  AguaR: Int
+  Diesel: Int
+  gLP: Int
+} 

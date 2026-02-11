@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify19a9a43c54364-staging-ef470-authRole",
+      "UnauthRoleArn": "arn:aws:iam::011528263702:role/amplify-amplify19a9a43c54364-staging-ef470-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::011528263702:role/amplify-amplify19a9a43c54364-staging-ef470-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplify19a9a43c54364-staging-ef470-deployment",
+      "UnauthRoleName": "amplify-amplify19a9a43c54364-staging-ef470-unauthRole",
+      "StackName": "amplify-amplify19a9a43c54364-staging-ef470",
+      "StackId": "arn:aws:cloudformation:us-east-2:011528263702:stack/amplify-amplify19a9a43c54364-staging-ef470/d8bea600-ad4f-11f0-9267-0ac024bf76dd",
+      "AmplifyAppId": "d1qbwtjdsb62co"
+    },
+    "categories": {
+      "api": {
+        "IOTsistema": {}
+      },
+      "auth": {
+        "iotsistema990dc1d1": {}
+      }
+    }
+  }
+}
