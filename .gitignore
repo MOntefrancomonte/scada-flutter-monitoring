@@ -44,6 +44,8 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+/lib/PC_VERSION
+
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
 amplify/.config/local-*
