@@ -1,8 +1,10 @@
 # scada-flutter-monitoring
-un simple scada para monitoreo
+un simple scada para monitoreo de recursos
 
 # Sistema SCADA para el Monitoreo de Consumo de Recursos en Entornos Industriales
-<img width="263" height="150" alt="UCSG" src="https://github.com/user-attachments/assets/6ec356cd-eeff-4c30-af1e-36422d36f186" />
+<p align="center">
+<img width="300" src="https://github.com/user-attachments/assets/6ec356cd-eeff-4c30-af1e-36422d36f186" alt="UCSG Logo" />
+</p>
 
 ## Resumen del Proyecto
 Este proyecto forma parte de la tesis de grado titulada **"Diseño de un sistema de monitoreo inteligente para el fortalecimiento de la toma de decisiones operativas en Kubiec"**. La solución integra hardware industrial de Siemens con tecnologías de nube de última generación para ofrecer una visualización en tiempo real y análisis histórico de variables críticas.
@@ -56,3 +58,7 @@ Para replicar o desarrollar sobre este entorno se requiere:
    ```bash
    git clone [https://github.com/tu-usuario/ProyectoScada.git](https://github.com/tu-usuario/ProyectoScada.git)
    cd ProyectoScada
+2. **Instalar dependencias de Flutter:**
+```bash
+   flutter pub get
+
